@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <div align="center">
 
 # 🌌 Yuri Viana — Portfólio Personal
