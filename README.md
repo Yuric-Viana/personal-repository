@@ -16,7 +16,9 @@
   <a href="#-contato">Contato</a>
 </p>
 
-![Home](public/figma/home.png)
+<p align="center">
+  <img src="public/figma/home.png" alt="Seção Home" width="100%">
+</p>
 
 </div>
 
